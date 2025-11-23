@@ -1,1 +1,1 @@
-"Credentials can be added here"
+"Credentials can be added here and will be deleted soon"
